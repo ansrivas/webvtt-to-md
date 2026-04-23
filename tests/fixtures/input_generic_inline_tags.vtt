@@ -1,0 +1,12 @@
+WEBVTT
+
+NOTE Pipeline info
+continued metadata
+
+chapter-1
+00:00:01.000 --> 00:00:03.000
+<v Alice Example>Hello <b>bold</b> and <i>italics</i></v>
+
+chapter-2
+00:00:03.000 --> 00:00:05.000
+No voice <u>under</u> and <c.meta>plain</c> <00:00:04.000>time tag

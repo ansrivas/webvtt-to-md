@@ -1,0 +1,17 @@
+WEBVTT
+
+NOTE
+Metadata only from following lines
+second note line
+
+00:00:01.000 --> 00:00:03.000
+<v.agent Alice &amp; Bob>Hello <lang es-ES>mundo</lang></v>
+
+chapter-2
+00:00:03.000 --> 00:00:05.000
+Line one with <b>bold
+continuation</b> and <00:00:04.000>tag
+
+chapter-3
+00:00:05.000 --> 00:00:07.000
+Prefix<ruby>rt</ruby>,suffix
